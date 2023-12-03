@@ -24,3 +24,4 @@ Deployment and Integration: Deploy the final model in a production environment, 
 
 Documentation and Reporting: Provide comprehensive project documentation, including data sources, preprocessing steps, model selection, and deployment instructions.
 
+**NOTE: Please refer this link for the dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
