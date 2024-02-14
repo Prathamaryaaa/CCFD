@@ -22,6 +22,6 @@ The project will focus on the following key areas:
 
 * Deployment and Integration: Deploy the final model in a production environment, potentially integrating it with existing financial systems for seamless operation.
 
-*Documentation and Reporting: Provide comprehensive project documentation, including data sources, preprocessing steps, model selection, and deployment instructions.
+* Documentation and Reporting: Provide comprehensive project documentation, including data sources, preprocessing steps, model selection, and deployment instructions.
 
-* * NOTE: Please refer this link for the dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+# NOTE: Please refer this link for the dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
