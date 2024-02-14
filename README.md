@@ -1,9 +1,9 @@
-CREDIT CARD FRAUD DETECTION
+# CREDIT CARD FRAUD DETECTION
 
-Background:
+# Background:
 The increasing prevalence of online transactions has led to a rise in credit card fraud incidents. Detecting and preventing fraudulent transactions is crucial to safeguard the financial interests of both consumers and financial institutions. This project aims to develop an effective credit card fraud detection system using advanced machine learning techniques.
 
-Objective:
+# Objective:
 The primary objective of this project is to build a robust fraud detection system that can accurately identify and flag potentially fraudulent credit card transactions in real time. The system should minimize false positives while maintaining high accuracy in detecting actual fraud cases.
 
 The project will focus on the following key areas:
